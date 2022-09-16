@@ -1,36 +1,3 @@
-<p align ="center">
-<img src = "https://user-images.githubusercontent.com/70703371/173975716-355596a2-57bd-4565-b8e6-6f6651e3bb04.png">
-</p>
-
-
-## WHAT IS CTF (?)
-
-**CTF (Capture The Flag)** is a type of information security competition that challenges contestants to find solutions or complete various tasks. These tasks range from hunting for information from Wikipedia or the internet to basic programming exercises to intermediates aimed at hacking your way into a server to `retrieve data`. In general, contestants will be asked to find certain text that has been hidden behind web pages, servers or in images. This text is usually referred to as the **flag**. Like many other competitions, the skill level or difficulty for CTF varies greatly between events. Some of the competitions are targeted at professionals with experience operating in cybersecurity teams, and some are targeted at students who are new to cybersecurity in order to hone their skills and increase their knowledge. For students, the prizes given are usually **financial support for education** for those who succeed in becoming champions in competitions, then for professionals, usually **large cash prizes**.
- 
-
-## TYPES OF CTF (in summary)
-
-According to [CTF-time](https://ctftime.org/ctf-wtf/), CTF is divided into various types. In summary, the jeopardy style CTF provides a list of challenges and reward points for individuals or teams who successfully complete or find a challenge solution, then the group with the most points wins. Next, there is attack/defense style CTF, this type of CTF focuses on attacking the opponent's server and defending your own server. Usually this type of CTF is intended for those who are very experienced in the world of cybersecurity and this type of CTF is carried out in a specific physical location.
-
-
-> JEOPARDY CHALLENGES
-  
-|CATEGORY|ABOUT|
-|:------:|:---:|
-|Web Exploitation|Usually Involves `SQL Injection`, `Command Injection`, `Directory Traversal`, `XSS`, `Server Side Request Forgery`, and `Cross Site Request Forgery`|
-|Cryptography|XOR, Caesar Cipher, RSA, Stream Ciphers, Vigenere Cipher, Hashing Functions, Block Ciphers, Substitution Cipher.|
-|Binary Exploitation|Common topics addressed by Binary Exploitation are `Registers`, `The Stack`, `Buffers`, `Global Offset Table`, `Calling Conventions`, `Return Oriented Programming`, `Binary Security`, `The Heap`, `Format String Vulnerability`.|
-|Reverse Engineering|Usually involves `Assembly`, `C` , `Disassemblers`, and `Decompilers`.|
-|Forensics|Forensics is a way to recover data left on a computer. there are tons of methods out there to find deleted, unsaved, or worse, secretly recorded data. An important part of Forensics is having the right tools and being familiar with `file formats` , `EXIF data`, `WireShark`, `Steganography` , and `Disk Imaging`.|
-
-
-## FUN-FACT
-```
-1. CTF can be played as an individual or in a team.
-2. It is known that many challenges do not require programming knowledge and only 
-rely on problem solving skills and creative thinking.
-```
-
 > picoCTF's Solution
 
 <p align="center">
