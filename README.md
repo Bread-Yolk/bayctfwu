@@ -136,32 +136,6 @@
 |125. |[ARMssembly 0](https://github.com/jon-brandy/CTF-WRITE-UP/blob/8cee5cf1069f48164e28a3e813045d90ddf1c3fb/Asset/ARMssembly%200/README.md)|Reverse Engineering|[picoCTF](https://play.picoctf.org/practice/challenge/160?category=3&page=1)|2021|40|✅ SOLVED|
 
 
-## MEET THE TEAM MEMBERS
-
-
-
-> BAY'S LOGO
-
-
-<p align="center">
-  <img src = "https://user-images.githubusercontent.com/70703371/177257904-449f9771-9787-491e-bc4e-693e6009c191.png" width = "150">
-</p>
-
-> CLICK THE BUTTON BELOW TO VIEW (!)
-<details>
-<summary> BAY - CTF DIVISION </summary>
-<br>
-
-|USERNAME|HELD STREAM|Profession(s)|
-|:------:|:---------:|:--------:|
-|[jon-brandy](https://github.com/jon-brandy)|Web Exploitation - Forensic - Binary Exploitation|College Student - Researcher|
-|[Q](https://github.com/tkxldk)|Cryptography - Forensic|College Student - Designer|
-|[RioFerdinand25](https://github.com/RioFerdinand25)|Forensic|College Student|
-|[Antonyous10](https://github.com/Antonyous10)|Cryptography|College Student|
-|[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|College Student - Entrepreneur|
-|[stephanchandra](https://github.com/stephanchandra)|Binary Exploitation|College Student - Mentor|
-</details>
-
 ## LEARNING REFERENCES
 
 
